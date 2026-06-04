@@ -1,0 +1,14 @@
+{
+  "name": "flash-poll-backend",
+  "version": "3.0.0",
+  "description": "FlashPoll backend — zero dependencies, works on Node.js v14+",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+}
